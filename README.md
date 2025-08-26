@@ -10,11 +10,9 @@
 
 ## 🚀 About Me
 
-I'm a **DevOps Engineer** and **Backend Developer** from 🇧🇩 Dhaka, Bangladesh with **3+ years of professional experience** in building **scalable cloud infrastructure** and **automation-driven deployments**.  
+I'm a **DevOps Engineer** and **Backend Developer** from Dhaka, Bangladesh with **3+ years of professional experience** in building **scalable cloud infrastructure** and **automation-driven deployments**.  
 
 I specialize in designing **cost-efficient architectures**, enabling businesses to scale without over-engineering. My expertise lies in **AWS, CI/CD, Infrastructure as Code, and containerized applications**.  
-
-- 🔭 Recently built a **food delivery platform** – migrated from shared cloud → AWS for scalability & cost optimization  
 - 🌱 Continuously exploring **DevSecOps** and **FinOps best practices**  
 - 👯 Open to collaborating on **open-source DevOps / cloud-native projects**  
 - 💬 Ask me about **AWS, CI/CD, Containers, Infrastructure as Code, and Backend Engineering**  
